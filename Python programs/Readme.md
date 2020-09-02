@@ -2,7 +2,8 @@
    Write a Python program which accepts the
 user's first and last name and print them in
 reverse order with a space between them.
-
+output:
+ ![program1](https://user-images.githubusercontent.com/38761761/91932963-639bdd80-ed05-11ea-8ef7-f586393007e7.png)
 <h2>Program2</h2>
 Write a Python program to calculate number of
 days between two dates.
